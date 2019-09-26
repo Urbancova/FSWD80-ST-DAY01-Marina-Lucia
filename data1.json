@@ -1,0 +1,141 @@
+var json = [{
+
+   "uniqueId": "1",
+
+   "firstName": "Mark",
+
+   "lastName": "Miller",
+
+   "emailAddress": "mark.miller@gmail.com",
+
+   "jobTitle": "Developer",
+
+   "salary": "3000"
+
+}, {
+
+	"uniqueId": "2",
+
+   "firstName": "Patrik",
+
+   "lastName": "Schmid",
+
+   "emailAddress": "patrik.schmid@gmail.com",
+
+   "jobTitle": "Data Analyst",
+
+   "salary": "4000"
+
+}, {
+
+	"uniqueId": "3",
+
+   "firstName": "Patricia",
+
+   "lastName": "Schmeiter",
+
+   "emailAddress": "patr.schmeieter@gmail.com",
+
+   "jobTitle": "Analyst",
+
+   "salary": "4000"
+
+}, {
+
+	"uniqueId": "4",
+
+   "firstName": "Peter",
+
+   "lastName": "Klein",
+
+   "emailAddress": "peter.klein@gmail.com",
+
+   "jobTitle": "Developer",
+
+   "salary": "5000"
+
+}, {
+
+	"uniqueId": "5",
+
+   "firstName": "Peter",
+
+   "lastName": "Gross",
+
+   "emailAddress": "peter.gross@gmail.com",
+
+   "jobTitle": "Developer",
+
+   "salary": "3000"
+
+}, {
+
+	"uniqueId": "6",
+
+   "firstName": "Paul",
+
+   "lastName": "Grau",
+
+   "emailAddress": "paul.grau@gmail.com",
+
+   "jobTitle": "Analyst",
+
+   "salary": "5000"
+
+}, {	
+
+	"uniqueId": "7",
+
+   "firstName": "Paulina",
+
+   "lastName": "Grow",
+
+   "emailAddress": "paulin.grow@gmail.com",
+
+   "jobTitle": "Analyst",
+
+   "salary": "6000"
+
+}, {	
+
+	"uniqueId": "8",
+
+   "firstName": "Lina",
+
+   "lastName": "Petersen",
+
+   "emailAddress": "lina.petersen@gmail.com",
+
+   "jobTitle": "Developer",
+
+   "salary": "6000"
+
+}, {	
+
+	"uniqueId": "9",
+
+   "firstName": "Ina",
+
+   "lastName": "Ersen",
+
+   "emailAddress": "ina.ersen@gmail.com",
+
+   "jobTitle": "Junior Developer",
+
+   "salary": "4000"
+
+}, {	
+
+	"uniqueId": "10",
+
+   "firstName": "Anna",
+
+   "lastName": "Olsen",
+
+   "emailAddress": "anna.olsen@gmail.com",
+
+   "jobTitle": "Senior Developer",
+
+   "salary": "7000"
+
+}];

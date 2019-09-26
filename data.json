@@ -1,0 +1,9 @@
+sandwich = {
+"sandwich" : "hamburger", 
+"calories" : "260"
+};
+
+fries = {
+"fries_size": "Large French Fries",
+"calories" : "570"
+};

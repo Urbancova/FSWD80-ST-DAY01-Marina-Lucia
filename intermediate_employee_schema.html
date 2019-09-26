@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html>
+<head>
+	<title>Employee schema</title>
+</head>
+<body>
+	
+	<script type="text/javascript" src="data1.json"></script>
+
+	<script>
+
+   document.write("<h2>Employee schema</h2>");
+
+   var i = 0
+   document.writeln("<table border='2'><tr><td><b>Unique ID</b></td><td><b>First Name</b></td><td><b>Last Name</b></td><td><b>Email Address</b></td><td><b>Job title</b></td><td><b>Salary</b></td></tr>");
+   for(i = 0; i < json.length; i++) {
+    	document.writeln("<tr><td width=110>" + json[i].uniqueId + "</td>");
+        document.writeln("<td width=110>" + json[i].firstName + "</td>");
+        document.writeln("<td width=110>" + json[i].lastName + "</td>");
+        document.writeln("<td width=110>" + json[i].emailAddress + "</td>");
+        document.writeln("<td width=130>" + json[i].jobTitle + "</td>");
+        document.writeln("<td width=110>" + json[i].salary + "</td>");
+
+        document.writeln("</tr>");
+    }
+ 	document.writeln("</table>");
+	</script>
+</body>
+</html>
